@@ -1,0 +1,304 @@
+,age,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,Heart_Disease,Sex,Age_range
+0,63,asymptomatic,145,233,1,0,150,0,2.3,upsloping,0,normal,Presence,Male,Old age
+1,37,non-anginal pain,130,250,0,1,187,0,3.5,upsloping,0,fixed defect,Presence,Male,Young age
+2,41,atypical angina,130,204,0,0,172,0,1.4,downsloping,0,fixed defect,Presence,Female,Mid age
+3,56,atypical angina,120,236,0,1,178,0,0.8,downsloping,0,fixed defect,Presence,Male,Old age
+4,57, typical angina,120,354,0,1,163,1,0.6,downsloping,0,fixed defect,Presence,Female,Old age
+5,57, typical angina,140,192,0,1,148,0,0.4,flat,0,normal,Presence,Male,Old age
+6,56,atypical angina,140,294,0,0,153,0,1.3,flat,0,fixed defect,Presence,Female,Old age
+7,44,atypical angina,120,263,0,1,173,0,0.0,downsloping,0,reversable defect,Presence,Male,Mid age
+8,52,non-anginal pain,172,199,1,1,162,0,0.5,downsloping,0,reversable defect,Presence,Male,Mid age
+9,57,non-anginal pain,150,168,0,1,174,0,1.6,downsloping,0,fixed defect,Presence,Male,Old age
+10,54, typical angina,140,239,0,1,160,0,1.2,downsloping,0,fixed defect,Presence,Male,Mid age
+11,48,non-anginal pain,130,275,0,1,139,0,0.2,downsloping,0,fixed defect,Presence,Female,Mid age
+12,49,atypical angina,130,266,0,1,171,0,0.6,downsloping,0,fixed defect,Presence,Male,Mid age
+13,64,asymptomatic,110,211,0,0,144,1,1.8,flat,0,fixed defect,Presence,Male,Old age
+14,58,asymptomatic,150,283,1,0,162,0,1.0,downsloping,0,fixed defect,Presence,Female,Old age
+15,50,non-anginal pain,120,219,0,1,158,0,1.6,flat,0,fixed defect,Presence,Female,Mid age
+16,58,non-anginal pain,120,340,0,1,172,0,0.0,downsloping,0,fixed defect,Presence,Female,Old age
+17,66,asymptomatic,150,226,0,1,114,0,2.6,upsloping,0,fixed defect,Presence,Female,Old age
+18,43, typical angina,150,247,0,1,171,0,1.5,downsloping,0,fixed defect,Presence,Male,Mid age
+19,69,asymptomatic,140,239,0,1,151,0,1.8,downsloping,2,fixed defect,Presence,Female,Old age
+20,59, typical angina,135,234,0,1,161,0,0.5,flat,0,reversable defect,Presence,Male,Old age
+21,44,non-anginal pain,130,233,0,1,179,1,0.4,downsloping,0,fixed defect,Presence,Male,Mid age
+22,42, typical angina,140,226,0,1,178,0,0.0,downsloping,0,fixed defect,Presence,Male,Mid age
+23,61,non-anginal pain,150,243,1,1,137,1,1.0,flat,0,fixed defect,Presence,Male,Old age
+24,40,asymptomatic,140,199,0,1,178,1,1.4,downsloping,0,reversable defect,Presence,Male,Mid age
+25,71,atypical angina,160,302,0,1,162,0,0.4,downsloping,2,fixed defect,Presence,Female,Old age
+26,59,non-anginal pain,150,212,1,1,157,0,1.6,downsloping,0,fixed defect,Presence,Male,Old age
+27,51,non-anginal pain,110,175,0,1,123,0,0.6,downsloping,0,fixed defect,Presence,Male,Mid age
+28,65,non-anginal pain,140,417,1,0,157,0,0.8,downsloping,1,fixed defect,Presence,Female,Old age
+29,53,non-anginal pain,130,197,1,0,152,0,1.2,upsloping,0,fixed defect,Presence,Male,Mid age
+30,41,atypical angina,105,198,0,1,168,0,0.0,downsloping,1,fixed defect,Presence,Female,Mid age
+31,65, typical angina,120,177,0,1,140,0,0.4,downsloping,0,reversable defect,Presence,Male,Old age
+32,44,atypical angina,130,219,0,0,188,0,0.0,downsloping,0,fixed defect,Presence,Male,Mid age
+33,54,non-anginal pain,125,273,0,0,152,0,0.5,upsloping,1,fixed defect,Presence,Male,Mid age
+34,51,asymptomatic,125,213,0,0,125,1,1.4,downsloping,1,fixed defect,Presence,Male,Mid age
+35,46,non-anginal pain,142,177,0,0,160,1,1.4,upsloping,0,fixed defect,Presence,Female,Mid age
+36,54,non-anginal pain,135,304,1,1,170,0,0.0,downsloping,0,fixed defect,Presence,Female,Mid age
+37,54,non-anginal pain,150,232,0,0,165,0,1.6,downsloping,0,reversable defect,Presence,Male,Mid age
+38,65,non-anginal pain,155,269,0,1,148,0,0.8,downsloping,0,fixed defect,Presence,Female,Old age
+39,65,non-anginal pain,160,360,0,0,151,0,0.8,downsloping,0,fixed defect,Presence,Female,Old age
+40,51,non-anginal pain,140,308,0,0,142,0,1.5,downsloping,1,fixed defect,Presence,Female,Mid age
+41,48,atypical angina,130,245,0,0,180,0,0.2,flat,0,fixed defect,Presence,Male,Mid age
+42,45, typical angina,104,208,0,0,148,1,3.0,flat,0,fixed defect,Presence,Male,Mid age
+43,53, typical angina,130,264,0,0,143,0,0.4,flat,0,fixed defect,Presence,Female,Mid age
+44,39,non-anginal pain,140,321,0,0,182,0,0.0,downsloping,0,fixed defect,Presence,Male,Young age
+45,52,atypical angina,120,325,0,1,172,0,0.2,downsloping,0,fixed defect,Presence,Male,Mid age
+46,44,non-anginal pain,140,235,0,0,180,0,0.0,downsloping,0,fixed defect,Presence,Male,Mid age
+47,47,non-anginal pain,138,257,0,0,156,0,0.0,downsloping,0,fixed defect,Presence,Male,Mid age
+48,53,non-anginal pain,128,216,0,0,115,0,0.0,downsloping,0,,Presence,Female,Mid age
+49,53, typical angina,138,234,0,0,160,0,0.0,downsloping,0,fixed defect,Presence,Female,Mid age
+50,51,non-anginal pain,130,256,0,0,149,0,0.5,downsloping,0,fixed defect,Presence,Female,Mid age
+51,66, typical angina,120,302,0,0,151,0,0.4,flat,0,fixed defect,Presence,Male,Old age
+52,62,non-anginal pain,130,231,0,1,146,0,1.8,flat,3,reversable defect,Presence,Male,Old age
+53,44,non-anginal pain,108,141,0,1,175,0,0.6,flat,0,fixed defect,Presence,Female,Mid age
+54,63,non-anginal pain,135,252,0,0,172,0,0.0,downsloping,0,fixed defect,Presence,Female,Old age
+55,52,atypical angina,134,201,0,1,158,0,0.8,downsloping,1,fixed defect,Presence,Male,Mid age
+56,48, typical angina,122,222,0,0,186,0,0.0,downsloping,0,fixed defect,Presence,Male,Mid age
+57,45, typical angina,115,260,0,0,185,0,0.0,downsloping,0,fixed defect,Presence,Male,Mid age
+58,34,asymptomatic,118,182,0,0,174,0,0.0,downsloping,0,fixed defect,Presence,Male,Young age
+59,57, typical angina,128,303,0,0,159,0,0.0,downsloping,1,fixed defect,Presence,Female,Old age
+60,71,non-anginal pain,110,265,1,0,130,0,0.0,downsloping,1,fixed defect,Presence,Female,Old age
+61,54,atypical angina,108,309,0,1,156,0,0.0,downsloping,0,reversable defect,Presence,Male,Mid age
+62,52,asymptomatic,118,186,0,0,190,0,0.0,flat,0,normal,Presence,Male,Mid age
+63,41,atypical angina,135,203,0,1,132,0,0.0,flat,0,normal,Presence,Male,Mid age
+64,58,non-anginal pain,140,211,1,0,165,0,0.0,downsloping,0,fixed defect,Presence,Male,Old age
+65,35, typical angina,138,183,0,1,182,0,1.4,downsloping,0,fixed defect,Presence,Female,Young age
+66,51,non-anginal pain,100,222,0,1,143,1,1.2,flat,0,fixed defect,Presence,Male,Mid age
+67,45,atypical angina,130,234,0,0,175,0,0.6,flat,0,fixed defect,Presence,Female,Mid age
+68,44,atypical angina,120,220,0,1,170,0,0.0,downsloping,0,fixed defect,Presence,Male,Mid age
+69,62, typical angina,124,209,0,1,163,0,0.0,downsloping,0,fixed defect,Presence,Female,Old age
+70,54,non-anginal pain,120,258,0,0,147,0,0.4,flat,0,reversable defect,Presence,Male,Mid age
+71,51,non-anginal pain,94,227,0,1,154,1,0.0,downsloping,1,reversable defect,Presence,Male,Mid age
+72,29,atypical angina,130,204,0,0,202,0,0.0,downsloping,0,fixed defect,Presence,Male,Young age
+73,51, typical angina,140,261,0,0,186,1,0.0,downsloping,0,fixed defect,Presence,Male,Mid age
+74,43,non-anginal pain,122,213,0,1,165,0,0.2,flat,0,fixed defect,Presence,Female,Mid age
+75,55,atypical angina,135,250,0,0,161,0,1.4,flat,0,fixed defect,Presence,Female,Old age
+76,51,non-anginal pain,125,245,1,0,166,0,2.4,flat,0,fixed defect,Presence,Male,Mid age
+77,59,atypical angina,140,221,0,1,164,1,0.0,downsloping,0,fixed defect,Presence,Male,Old age
+78,52,atypical angina,128,205,1,1,184,0,0.0,downsloping,0,fixed defect,Presence,Male,Mid age
+79,58,non-anginal pain,105,240,0,0,154,1,0.6,flat,0,reversable defect,Presence,Male,Old age
+80,41,non-anginal pain,112,250,0,1,179,0,0.0,downsloping,0,fixed defect,Presence,Male,Mid age
+81,45,atypical angina,128,308,0,0,170,0,0.0,downsloping,0,fixed defect,Presence,Male,Mid age
+82,60,non-anginal pain,102,318,0,1,160,0,0.0,downsloping,1,fixed defect,Presence,Female,Old age
+83,52,asymptomatic,152,298,1,1,178,0,1.2,flat,0,reversable defect,Presence,Male,Mid age
+84,42, typical angina,102,265,0,0,122,0,0.6,flat,0,fixed defect,Presence,Female,Mid age
+85,67,non-anginal pain,115,564,0,0,160,0,1.6,flat,0,reversable defect,Presence,Female,Old age
+86,68,non-anginal pain,118,277,0,1,151,0,1.0,downsloping,1,reversable defect,Presence,Male,Old age
+87,46,atypical angina,101,197,1,1,156,0,0.0,downsloping,0,reversable defect,Presence,Male,Mid age
+88,54,non-anginal pain,110,214,0,1,158,0,1.6,flat,0,fixed defect,Presence,Female,Mid age
+89,58, typical angina,100,248,0,0,122,0,1.0,flat,0,fixed defect,Presence,Female,Old age
+90,48,non-anginal pain,124,255,1,1,175,0,0.0,downsloping,2,fixed defect,Presence,Male,Mid age
+91,57, typical angina,132,207,0,1,168,1,0.0,downsloping,0,reversable defect,Presence,Male,Old age
+92,52,non-anginal pain,138,223,0,1,169,0,0.0,downsloping,0,fixed defect,Presence,Male,Mid age
+93,54,atypical angina,132,288,1,0,159,1,0.0,downsloping,1,fixed defect,Presence,Female,Mid age
+94,45,atypical angina,112,160,0,1,138,0,0.0,flat,0,fixed defect,Presence,Female,Mid age
+95,53, typical angina,142,226,0,0,111,1,0.0,downsloping,0,reversable defect,Presence,Male,Mid age
+96,62, typical angina,140,394,0,0,157,0,1.2,flat,0,fixed defect,Presence,Female,Old age
+97,52, typical angina,108,233,1,1,147,0,0.1,downsloping,3,reversable defect,Presence,Male,Mid age
+98,43,non-anginal pain,130,315,0,1,162,0,1.9,downsloping,1,fixed defect,Presence,Male,Mid age
+99,53,non-anginal pain,130,246,1,0,173,0,0.0,downsloping,3,fixed defect,Presence,Male,Mid age
+100,42,asymptomatic,148,244,0,0,178,0,0.8,downsloping,2,fixed defect,Presence,Male,Mid age
+101,59,asymptomatic,178,270,0,0,145,0,4.2,upsloping,0,reversable defect,Presence,Male,Old age
+102,63,atypical angina,140,195,0,1,179,0,0.0,downsloping,2,fixed defect,Presence,Female,Old age
+103,42,non-anginal pain,120,240,1,1,194,0,0.8,upsloping,0,reversable defect,Presence,Male,Mid age
+104,50,non-anginal pain,129,196,0,1,163,0,0.0,downsloping,0,fixed defect,Presence,Male,Mid age
+105,68,non-anginal pain,120,211,0,0,115,0,1.5,flat,0,fixed defect,Presence,Female,Old age
+106,69,asymptomatic,160,234,1,0,131,0,0.1,flat,1,fixed defect,Presence,Male,Old age
+107,45, typical angina,138,236,0,0,152,1,0.2,flat,0,fixed defect,Presence,Female,Mid age
+108,50,atypical angina,120,244,0,1,162,0,1.1,downsloping,0,fixed defect,Presence,Female,Mid age
+109,50, typical angina,110,254,0,0,159,0,0.0,downsloping,0,fixed defect,Presence,Female,Mid age
+110,64, typical angina,180,325,0,1,154,1,0.0,downsloping,0,fixed defect,Presence,Female,Old age
+111,57,non-anginal pain,150,126,1,1,173,0,0.2,downsloping,1,reversable defect,Presence,Male,Old age
+112,64,non-anginal pain,140,313,0,1,133,0,0.2,downsloping,0,reversable defect,Presence,Female,Old age
+113,43, typical angina,110,211,0,1,161,0,0.0,downsloping,0,reversable defect,Presence,Male,Mid age
+114,55,atypical angina,130,262,0,1,155,0,0.0,downsloping,0,fixed defect,Presence,Male,Old age
+115,37,non-anginal pain,120,215,0,1,170,0,0.0,downsloping,0,fixed defect,Presence,Female,Young age
+116,41,non-anginal pain,130,214,0,0,168,0,2.0,flat,0,fixed defect,Presence,Male,Mid age
+117,56,asymptomatic,120,193,0,0,162,0,1.9,flat,0,reversable defect,Presence,Male,Old age
+118,46,atypical angina,105,204,0,1,172,0,0.0,downsloping,0,fixed defect,Presence,Female,Mid age
+119,46, typical angina,138,243,0,0,152,1,0.0,flat,0,fixed defect,Presence,Female,Mid age
+120,64, typical angina,130,303,0,1,122,0,2.0,flat,2,fixed defect,Presence,Female,Old age
+121,59, typical angina,138,271,0,0,182,0,0.0,downsloping,0,fixed defect,Presence,Male,Old age
+122,41,non-anginal pain,112,268,0,0,172,1,0.0,downsloping,0,fixed defect,Presence,Female,Mid age
+123,54,non-anginal pain,108,267,0,0,167,0,0.0,downsloping,0,fixed defect,Presence,Female,Mid age
+124,39,non-anginal pain,94,199,0,1,179,0,0.0,downsloping,0,fixed defect,Presence,Female,Young age
+125,34,atypical angina,118,210,0,1,192,0,0.7,downsloping,0,fixed defect,Presence,Female,Young age
+126,47, typical angina,112,204,0,1,143,0,0.1,downsloping,0,fixed defect,Presence,Male,Mid age
+127,67,non-anginal pain,152,277,0,1,172,0,0.0,downsloping,1,fixed defect,Presence,Female,Old age
+128,52,non-anginal pain,136,196,0,0,169,0,0.1,flat,0,fixed defect,Presence,Female,Mid age
+129,74,atypical angina,120,269,0,0,121,1,0.2,downsloping,1,fixed defect,Presence,Female,Old age
+130,54,non-anginal pain,160,201,0,1,163,0,0.0,downsloping,1,fixed defect,Presence,Female,Mid age
+131,49,atypical angina,134,271,0,1,162,0,0.0,flat,0,fixed defect,Presence,Female,Mid age
+132,42,atypical angina,120,295,0,1,162,0,0.0,downsloping,0,fixed defect,Presence,Male,Mid age
+133,41,atypical angina,110,235,0,1,153,0,0.0,downsloping,0,fixed defect,Presence,Male,Mid age
+134,41,atypical angina,126,306,0,1,163,0,0.0,downsloping,0,fixed defect,Presence,Female,Mid age
+135,49, typical angina,130,269,0,1,163,0,0.0,downsloping,0,fixed defect,Presence,Female,Mid age
+136,60,non-anginal pain,120,178,1,1,96,0,0.0,downsloping,0,fixed defect,Presence,Female,Old age
+137,62,atypical angina,128,208,1,0,140,0,0.0,downsloping,0,fixed defect,Presence,Male,Old age
+138,57, typical angina,110,201,0,1,126,1,1.5,flat,0,normal,Presence,Male,Old age
+139,64, typical angina,128,263,0,1,105,1,0.2,flat,1,reversable defect,Presence,Male,Old age
+140,51,non-anginal pain,120,295,0,0,157,0,0.6,downsloping,0,fixed defect,Presence,Female,Mid age
+141,43, typical angina,115,303,0,1,181,0,1.2,flat,0,fixed defect,Presence,Male,Mid age
+142,42,non-anginal pain,120,209,0,1,173,0,0.0,flat,0,fixed defect,Presence,Female,Mid age
+143,67, typical angina,106,223,0,1,142,0,0.3,downsloping,2,fixed defect,Presence,Female,Old age
+144,76,non-anginal pain,140,197,0,2,116,0,1.1,flat,0,fixed defect,Presence,Female,Old age
+145,70,atypical angina,156,245,0,0,143,0,0.0,downsloping,0,fixed defect,Presence,Male,Old age
+146,44,non-anginal pain,118,242,0,1,149,0,0.3,flat,1,fixed defect,Presence,Female,Mid age
+147,60,asymptomatic,150,240,0,1,171,0,0.9,downsloping,0,fixed defect,Presence,Female,Old age
+148,44,non-anginal pain,120,226,0,1,169,0,0.0,downsloping,0,fixed defect,Presence,Male,Mid age
+149,42,non-anginal pain,130,180,0,1,150,0,0.0,downsloping,0,fixed defect,Presence,Male,Mid age
+150,66, typical angina,160,228,0,0,138,0,2.3,downsloping,0,normal,Presence,Male,Old age
+151,71, typical angina,112,149,0,1,125,0,1.6,flat,0,fixed defect,Presence,Female,Old age
+152,64,asymptomatic,170,227,0,0,155,0,0.6,flat,0,reversable defect,Presence,Male,Old age
+153,66,non-anginal pain,146,278,0,0,152,0,0.0,flat,1,fixed defect,Presence,Female,Old age
+154,39,non-anginal pain,138,220,0,1,152,0,0.0,flat,0,fixed defect,Presence,Female,Young age
+155,58, typical angina,130,197,0,1,131,0,0.6,flat,0,fixed defect,Presence,Female,Old age
+156,47,non-anginal pain,130,253,0,1,179,0,0.0,downsloping,0,fixed defect,Presence,Male,Mid age
+157,35,atypical angina,122,192,0,1,174,0,0.0,downsloping,0,fixed defect,Presence,Male,Young age
+158,58,atypical angina,125,220,0,1,144,0,0.4,flat,0,reversable defect,Presence,Male,Old age
+159,56,atypical angina,130,221,0,0,163,0,0.0,downsloping,0,reversable defect,Presence,Male,Old age
+160,56,atypical angina,120,240,0,1,169,0,0.0,upsloping,0,fixed defect,Presence,Male,Old age
+161,55,atypical angina,132,342,0,1,166,0,1.2,downsloping,0,fixed defect,Presence,Female,Old age
+162,41,atypical angina,120,157,0,1,182,0,0.0,downsloping,0,fixed defect,Presence,Male,Mid age
+163,38,non-anginal pain,138,175,0,1,173,0,0.0,downsloping,0,fixed defect,Presence,Male,Young age
+164,38,non-anginal pain,138,175,0,1,173,0,0.0,downsloping,0,fixed defect,Presence,Male,Young age
+165,67, typical angina,160,286,0,0,108,1,1.5,flat,3,fixed defect,Absence,Male,Old age
+166,67, typical angina,120,229,0,0,129,1,2.6,flat,2,reversable defect,Absence,Male,Old age
+167,62, typical angina,140,268,0,0,160,0,3.6,upsloping,2,fixed defect,Absence,Female,Old age
+168,63, typical angina,130,254,0,0,147,0,1.4,flat,1,reversable defect,Absence,Male,Old age
+169,53, typical angina,140,203,1,0,155,1,3.1,upsloping,0,reversable defect,Absence,Male,Mid age
+170,56,non-anginal pain,130,256,1,0,142,1,0.6,flat,1,normal,Absence,Male,Old age
+171,48,atypical angina,110,229,0,1,168,0,1.0,upsloping,0,reversable defect,Absence,Male,Mid age
+172,58,atypical angina,120,284,0,0,160,0,1.8,flat,0,fixed defect,Absence,Male,Old age
+173,58,non-anginal pain,132,224,0,0,173,0,3.2,downsloping,2,reversable defect,Absence,Male,Old age
+174,60, typical angina,130,206,0,0,132,1,2.4,flat,2,reversable defect,Absence,Male,Old age
+175,40, typical angina,110,167,0,0,114,1,2.0,flat,0,reversable defect,Absence,Male,Mid age
+176,60, typical angina,117,230,1,1,160,1,1.4,downsloping,2,reversable defect,Absence,Male,Old age
+177,64,non-anginal pain,140,335,0,1,158,0,0.0,downsloping,0,fixed defect,Absence,Male,Old age
+178,43, typical angina,120,177,0,0,120,1,2.5,flat,0,reversable defect,Absence,Male,Mid age
+179,57, typical angina,150,276,0,0,112,1,0.6,flat,1,normal,Absence,Male,Old age
+180,55, typical angina,132,353,0,1,132,1,1.2,flat,1,reversable defect,Absence,Male,Old age
+181,65, typical angina,150,225,0,0,114,0,1.0,flat,3,reversable defect,Absence,Female,Old age
+182,61, typical angina,130,330,0,0,169,0,0.0,downsloping,0,fixed defect,Absence,Female,Old age
+183,58,non-anginal pain,112,230,0,0,165,0,2.5,flat,1,reversable defect,Absence,Male,Old age
+184,50, typical angina,150,243,0,0,128,0,2.6,flat,0,reversable defect,Absence,Male,Mid age
+185,44, typical angina,112,290,0,0,153,0,0.0,downsloping,1,fixed defect,Absence,Male,Mid age
+186,60, typical angina,130,253,0,1,144,1,1.4,downsloping,1,reversable defect,Absence,Male,Old age
+187,54, typical angina,124,266,0,0,109,1,2.2,flat,1,reversable defect,Absence,Male,Mid age
+188,50,non-anginal pain,140,233,0,1,163,0,0.6,flat,1,reversable defect,Absence,Male,Mid age
+189,41, typical angina,110,172,0,0,158,0,0.0,downsloping,0,reversable defect,Absence,Male,Mid age
+190,51, typical angina,130,305,0,1,142,1,1.2,flat,0,reversable defect,Absence,Female,Mid age
+191,58, typical angina,128,216,0,0,131,1,2.2,flat,3,reversable defect,Absence,Male,Old age
+192,54, typical angina,120,188,0,1,113,0,1.4,flat,1,reversable defect,Absence,Male,Mid age
+193,60, typical angina,145,282,0,0,142,1,2.8,flat,2,reversable defect,Absence,Male,Old age
+194,60,non-anginal pain,140,185,0,0,155,0,3.0,flat,0,fixed defect,Absence,Male,Old age
+195,59, typical angina,170,326,0,0,140,1,3.4,upsloping,0,reversable defect,Absence,Male,Old age
+196,46,non-anginal pain,150,231,0,1,147,0,3.6,flat,0,fixed defect,Absence,Male,Mid age
+197,67, typical angina,125,254,1,1,163,0,0.2,flat,2,reversable defect,Absence,Male,Old age
+198,62, typical angina,120,267,0,1,99,1,1.8,flat,2,reversable defect,Absence,Male,Old age
+199,65, typical angina,110,248,0,0,158,0,0.6,downsloping,2,normal,Absence,Male,Old age
+200,44, typical angina,110,197,0,0,177,0,0.0,downsloping,1,fixed defect,Absence,Male,Mid age
+201,60, typical angina,125,258,0,0,141,1,2.8,flat,1,reversable defect,Absence,Male,Old age
+202,58, typical angina,150,270,0,0,111,1,0.8,downsloping,0,reversable defect,Absence,Male,Old age
+203,68,non-anginal pain,180,274,1,0,150,1,1.6,flat,0,reversable defect,Absence,Male,Old age
+204,62, typical angina,160,164,0,0,145,0,6.2,upsloping,3,reversable defect,Absence,Female,Old age
+205,52, typical angina,128,255,0,1,161,1,0.0,downsloping,1,reversable defect,Absence,Male,Mid age
+206,59, typical angina,110,239,0,0,142,1,1.2,flat,1,reversable defect,Absence,Male,Old age
+207,60, typical angina,150,258,0,0,157,0,2.6,flat,2,reversable defect,Absence,Female,Old age
+208,49,non-anginal pain,120,188,0,1,139,0,2.0,flat,3,reversable defect,Absence,Male,Mid age
+209,59, typical angina,140,177,0,1,162,1,0.0,downsloping,1,reversable defect,Absence,Male,Old age
+210,57,non-anginal pain,128,229,0,0,150,0,0.4,flat,1,reversable defect,Absence,Male,Old age
+211,61, typical angina,120,260,0,1,140,1,3.6,flat,1,reversable defect,Absence,Male,Old age
+212,39, typical angina,118,219,0,1,140,0,1.2,flat,0,reversable defect,Absence,Male,Young age
+213,61, typical angina,145,307,0,0,146,1,1.0,flat,0,reversable defect,Absence,Female,Old age
+214,56, typical angina,125,249,1,0,144,1,1.2,flat,1,fixed defect,Absence,Male,Old age
+215,43, typical angina,132,341,1,0,136,1,3.0,flat,0,reversable defect,Absence,Female,Mid age
+216,62,non-anginal pain,130,263,0,1,97,0,1.2,flat,1,reversable defect,Absence,Female,Old age
+217,63, typical angina,130,330,1,0,132,1,1.8,downsloping,3,reversable defect,Absence,Male,Old age
+218,65, typical angina,135,254,0,0,127,0,2.8,flat,1,reversable defect,Absence,Male,Old age
+219,48, typical angina,130,256,1,0,150,1,0.0,downsloping,2,reversable defect,Absence,Male,Mid age
+220,63, typical angina,150,407,0,0,154,0,4.0,flat,3,reversable defect,Absence,Female,Old age
+221,55, typical angina,140,217,0,1,111,1,5.6,upsloping,0,reversable defect,Absence,Male,Old age
+222,65,asymptomatic,138,282,1,0,174,0,1.4,flat,1,fixed defect,Absence,Male,Old age
+223,56, typical angina,200,288,1,0,133,1,4.0,upsloping,2,reversable defect,Absence,Female,Old age
+224,54, typical angina,110,239,0,1,126,1,2.8,flat,1,reversable defect,Absence,Male,Mid age
+225,70, typical angina,145,174,0,1,125,1,2.6,upsloping,0,reversable defect,Absence,Male,Old age
+226,62,atypical angina,120,281,0,0,103,0,1.4,flat,1,reversable defect,Absence,Male,Old age
+227,35, typical angina,120,198,0,1,130,1,1.6,flat,0,reversable defect,Absence,Male,Young age
+228,59,asymptomatic,170,288,0,0,159,0,0.2,flat,0,reversable defect,Absence,Male,Old age
+229,64,non-anginal pain,125,309,0,1,131,1,1.8,flat,0,reversable defect,Absence,Male,Old age
+230,47,non-anginal pain,108,243,0,1,152,0,0.0,downsloping,0,fixed defect,Absence,Male,Mid age
+231,57, typical angina,165,289,1,0,124,0,1.0,flat,3,reversable defect,Absence,Male,Old age
+232,55, typical angina,160,289,0,0,145,1,0.8,flat,1,reversable defect,Absence,Male,Old age
+233,64, typical angina,120,246,0,0,96,1,2.2,upsloping,1,fixed defect,Absence,Male,Old age
+234,70, typical angina,130,322,0,0,109,0,2.4,flat,3,fixed defect,Absence,Male,Old age
+235,51, typical angina,140,299,0,1,173,1,1.6,downsloping,0,reversable defect,Absence,Male,Mid age
+236,58, typical angina,125,300,0,0,171,0,0.0,downsloping,2,reversable defect,Absence,Male,Old age
+237,60, typical angina,140,293,0,0,170,0,1.2,flat,2,reversable defect,Absence,Male,Old age
+238,77, typical angina,125,304,0,0,162,1,0.0,downsloping,3,fixed defect,Absence,Male,Old age
+239,35, typical angina,126,282,0,0,156,1,0.0,downsloping,0,reversable defect,Absence,Male,Young age
+240,70,non-anginal pain,160,269,0,1,112,1,2.9,flat,1,reversable defect,Absence,Male,Old age
+241,59, typical angina,174,249,0,1,143,1,0.0,flat,0,fixed defect,Absence,Female,Old age
+242,64, typical angina,145,212,0,0,132,0,2.0,flat,2,normal,Absence,Male,Old age
+243,57, typical angina,152,274,0,1,88,1,1.2,flat,1,reversable defect,Absence,Male,Old age
+244,56, typical angina,132,184,0,0,105,1,2.1,flat,1,normal,Absence,Male,Old age
+245,48, typical angina,124,274,0,0,166,0,0.5,flat,0,reversable defect,Absence,Male,Mid age
+246,56, typical angina,134,409,0,0,150,1,1.9,flat,2,reversable defect,Absence,Female,Old age
+247,66,atypical angina,160,246,0,1,120,1,0.0,flat,3,normal,Absence,Male,Old age
+248,54,atypical angina,192,283,0,0,195,0,0.0,downsloping,1,reversable defect,Absence,Male,Mid age
+249,69,non-anginal pain,140,254,0,0,146,0,2.0,flat,3,reversable defect,Absence,Male,Old age
+250,51, typical angina,140,298,0,1,122,1,4.2,flat,3,reversable defect,Absence,Male,Mid age
+251,43, typical angina,132,247,1,0,143,1,0.1,flat,0,reversable defect,Absence,Male,Mid age
+252,62, typical angina,138,294,1,1,106,0,1.9,flat,3,fixed defect,Absence,Female,Old age
+253,67, typical angina,100,299,0,0,125,1,0.9,flat,2,fixed defect,Absence,Male,Old age
+254,59,asymptomatic,160,273,0,0,125,0,0.0,downsloping,0,fixed defect,Absence,Male,Old age
+255,45, typical angina,142,309,0,0,147,1,0.0,flat,3,reversable defect,Absence,Male,Mid age
+256,58, typical angina,128,259,0,0,130,1,3.0,flat,2,reversable defect,Absence,Male,Old age
+257,50, typical angina,144,200,0,0,126,1,0.9,flat,0,reversable defect,Absence,Male,Mid age
+258,62, typical angina,150,244,0,1,154,1,1.4,flat,0,fixed defect,Absence,Female,Old age
+259,38,asymptomatic,120,231,0,1,182,1,3.8,flat,0,reversable defect,Absence,Male,Young age
+260,66, typical angina,178,228,1,1,165,1,1.0,flat,2,reversable defect,Absence,Female,Old age
+261,52, typical angina,112,230,0,1,160,0,0.0,downsloping,1,fixed defect,Absence,Male,Mid age
+262,53, typical angina,123,282,0,1,95,1,2.0,flat,2,reversable defect,Absence,Male,Mid age
+263,63, typical angina,108,269,0,1,169,1,1.8,flat,2,fixed defect,Absence,Female,Old age
+264,54, typical angina,110,206,0,0,108,1,0.0,flat,1,fixed defect,Absence,Male,Mid age
+265,66, typical angina,112,212,0,0,132,1,0.1,downsloping,1,fixed defect,Absence,Male,Old age
+266,55, typical angina,180,327,0,2,117,1,3.4,flat,0,fixed defect,Absence,Female,Old age
+267,49,non-anginal pain,118,149,0,0,126,0,0.8,downsloping,3,fixed defect,Absence,Male,Mid age
+268,54, typical angina,122,286,0,0,116,1,3.2,flat,2,fixed defect,Absence,Male,Mid age
+269,56, typical angina,130,283,1,0,103,1,1.6,upsloping,0,reversable defect,Absence,Male,Old age
+270,46, typical angina,120,249,0,0,144,0,0.8,downsloping,0,reversable defect,Absence,Male,Mid age
+271,61,asymptomatic,134,234,0,1,145,0,2.6,flat,2,fixed defect,Absence,Male,Old age
+272,67, typical angina,120,237,0,1,71,0,1.0,flat,0,fixed defect,Absence,Male,Old age
+273,58, typical angina,100,234,0,1,156,0,0.1,downsloping,1,reversable defect,Absence,Male,Old age
+274,47, typical angina,110,275,0,0,118,1,1.0,flat,1,fixed defect,Absence,Male,Mid age
+275,52, typical angina,125,212,0,1,168,0,1.0,downsloping,2,reversable defect,Absence,Male,Mid age
+276,58, typical angina,146,218,0,1,105,0,2.0,flat,1,reversable defect,Absence,Male,Old age
+277,57,atypical angina,124,261,0,1,141,0,0.3,downsloping,0,reversable defect,Absence,Male,Old age
+278,58,atypical angina,136,319,1,0,152,0,0.0,downsloping,2,fixed defect,Absence,Female,Old age
+279,61, typical angina,138,166,0,0,125,1,3.6,flat,1,fixed defect,Absence,Male,Old age
+280,42, typical angina,136,315,0,1,125,1,1.8,flat,0,normal,Absence,Male,Mid age
+281,52, typical angina,128,204,1,1,156,1,1.0,flat,0,,Absence,Male,Mid age
+282,59,non-anginal pain,126,218,1,1,134,0,2.2,flat,1,normal,Absence,Male,Old age
+283,40, typical angina,152,223,0,1,181,0,0.0,downsloping,0,reversable defect,Absence,Male,Mid age
+284,61, typical angina,140,207,0,0,138,1,1.9,downsloping,1,reversable defect,Absence,Male,Old age
+285,46, typical angina,140,311,0,1,120,1,1.8,flat,2,reversable defect,Absence,Male,Mid age
+286,59,asymptomatic,134,204,0,1,162,0,0.8,downsloping,2,fixed defect,Absence,Male,Old age
+287,57,atypical angina,154,232,0,0,164,0,0.0,downsloping,1,fixed defect,Absence,Male,Old age
+288,57, typical angina,110,335,0,1,143,1,3.0,flat,1,reversable defect,Absence,Male,Old age
+289,55, typical angina,128,205,0,2,130,1,2.0,flat,1,reversable defect,Absence,Female,Old age
+290,61, typical angina,148,203,0,1,161,0,0.0,downsloping,1,reversable defect,Absence,Male,Old age
+291,58, typical angina,114,318,0,2,140,0,4.4,upsloping,3,normal,Absence,Male,Old age
+292,58, typical angina,170,225,1,0,146,1,2.8,flat,2,normal,Absence,Female,Old age
+293,67,non-anginal pain,152,212,0,0,150,0,0.8,flat,0,reversable defect,Absence,Male,Old age
+294,44, typical angina,120,169,0,1,144,1,2.8,upsloping,0,normal,Absence,Male,Mid age
+295,63, typical angina,140,187,0,0,144,1,4.0,downsloping,2,reversable defect,Absence,Male,Old age
+296,63, typical angina,124,197,0,1,136,1,0.0,flat,0,fixed defect,Absence,Female,Old age
+297,59, typical angina,164,176,1,0,90,0,1.0,flat,2,normal,Absence,Male,Old age
+298,57, typical angina,140,241,0,1,123,1,0.2,flat,0,reversable defect,Absence,Female,Old age
+299,45,asymptomatic,110,264,0,1,132,0,1.2,flat,0,reversable defect,Absence,Male,Mid age
+300,68, typical angina,144,193,1,1,141,0,3.4,flat,2,reversable defect,Absence,Male,Old age
+301,57, typical angina,130,131,0,1,115,1,1.2,flat,1,reversable defect,Absence,Male,Old age
+302,57,atypical angina,130,236,0,0,174,0,0.0,flat,1,fixed defect,Absence,Female,Old age
